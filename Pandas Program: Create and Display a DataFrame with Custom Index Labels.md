@@ -33,12 +33,14 @@ print(df)
 ```
 
 ## Output
+```
         name  score  attempts qualify
 a  Anastasia   12.5         1     yes
 b       Dima    9.0         3      no
 c  Katherine   16.5         2     yes
 d      James    NaN         3      no
 e      Emily    9.0         2      no
+```
 
 
 ## Result
